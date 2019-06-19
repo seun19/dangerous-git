@@ -1,3 +1,5 @@
 ~/app/.gitignore
 
+app/.vscode
 .DS_Store
+tmp/
